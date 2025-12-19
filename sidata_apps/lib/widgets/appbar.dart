@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:sidata_app/explore2.dart';
+import 'package:sidata_apps/explore2.dart';
 
-import 'package:sidata_app/pembiasaan_page.dart';
-import 'package:sidata_app/progress_page.dart';
-import 'package:sidata_app/dashboard.dart';
-import 'package:sidata_app/login_page.dart';
-import 'package:sidata_app/panduan_page.dart';
-import 'package:sidata_app/permintaan_saksi_page.dart';
-import 'package:sidata_app/profile.dart';
-import 'package:sidata_app/settings.dart';
-import 'package:sidata_app/student_behavior.dart';
+import 'package:sidata_apps/pembiasaan_page.dart';
+import 'package:sidata_apps/progress_page.dart';
+import 'package:sidata_apps/dashboard.dart';
+import 'package:sidata_apps/login_page.dart';
+import 'package:sidata_apps/panduan_page.dart';
+import 'package:sidata_apps/permintaan_saksi_page.dart';
+import 'package:sidata_apps/profile.dart';
+import 'package:sidata_apps/settings.dart';
+import 'package:sidata_apps/student_behavior.dart';
 
 class AppbarProp extends StatelessWidget implements PreferredSizeWidget {
   const AppbarProp({super.key});

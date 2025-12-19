@@ -1,7 +1,7 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:sidata_app/dashboard.dart';
+import 'package:sidata_apps/dashboard.dart';
 
 class Explore2 extends StatefulWidget {
   const Explore2({super.key});

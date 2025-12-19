@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sidata_app/widgets/appbar.dart';
+import 'package:sidata_apps/widgets/appbar.dart';
 
 class Dashboard extends StatefulWidget {
   const Dashboard({super.key});

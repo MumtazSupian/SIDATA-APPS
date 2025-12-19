@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:sidata_app/dashboard.dart';
+import 'package:sidata_apps/dashboard.dart';
 import 'profile.dart';
 import 'explore.dart';
 

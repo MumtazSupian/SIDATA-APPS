@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:sidata_app/pembiasaan_detail_page.dart';
-import 'package:sidata_app/widgets/appbar.dart';
+import 'package:sidata_apps/pembiasaan_detail_page.dart';
+import 'package:sidata_apps/widgets/appbar.dart';
 
 class JobEntry {
   final String pekerjaan;

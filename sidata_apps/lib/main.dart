@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sidata_app/explore.dart';
+import 'package:sidata_apps/explore.dart';
 
-import 'package:sidata_app/login_page.dart';
+import 'package:sidata_apps/login_page.dart';
 
 
 

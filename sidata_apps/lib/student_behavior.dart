@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:sidata_app/widgets/appbar.dart';
-import 'package:sidata_app/widgets/student_behavior_card.dart';
-import 'package:sidata_app/widgets/datatables.dart';
+import 'package:sidata_apps/widgets/appbar.dart';
+import 'package:sidata_apps/widgets/student_behavior_card.dart';
+import 'package:sidata_apps/widgets/datatables.dart';
 
 class StudentBehavior extends StatefulWidget {
   const StudentBehavior({super.key});

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:sidata_app/GIM_detail_page.dart';
-import 'package:sidata_app/UKK_detail_page.dart';
-import 'package:sidata_app/project_work_detail_page.dart';
-import 'package:sidata_app/widgets/appbar.dart';
+import 'package:sidata_apps/GIM_detail_page.dart';
+import 'package:sidata_apps/UKK_detail_page.dart';
+import 'package:sidata_apps/project_work_detail_page.dart';
+import 'package:sidata_apps/widgets/appbar.dart';
 import 'mobile_apps_detail_page.dart';
 
 class ProgressPage extends StatelessWidget {
